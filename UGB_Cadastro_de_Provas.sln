@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadastrodeProvas.Dominio", "CadastrodeProvas.Dominio\CadastrodeProvas.Dominio.csproj", "{D85D9E1B-54AE-4194-8F58-47D5783FF45F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadastrodeProvas.Web", "CadastrodeProvas.Web\CadastrodeProvas.Web.csproj", "{FF5B2C56-E3A8-43B8-A6F2-A6561A960817}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D85D9E1B-54AE-4194-8F58-47D5783FF45F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D85D9E1B-54AE-4194-8F58-47D5783FF45F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D85D9E1B-54AE-4194-8F58-47D5783FF45F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D85D9E1B-54AE-4194-8F58-47D5783FF45F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF5B2C56-E3A8-43B8-A6F2-A6561A960817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF5B2C56-E3A8-43B8-A6F2-A6561A960817}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF5B2C56-E3A8-43B8-A6F2-A6561A960817}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF5B2C56-E3A8-43B8-A6F2-A6561A960817}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50B75051-A9BF-4FE7-AEB6-D3171E10CC14}
+	EndGlobalSection
+EndGlobal
